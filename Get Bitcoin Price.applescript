@@ -4,3 +4,5 @@ tell application "JSON Helper"
 	set result to read JSON from json
 	set price to amount of result as number
 end tell
+
+set result_string to "Current Coinbase Bitcoin price " & price & " USD."
