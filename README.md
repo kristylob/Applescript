@@ -25,3 +25,8 @@ Tells iTunes to populate the 'Album artist' field if not populated.
 Update Git Repositories
 -----------------------
 Update all the Git repositories in your Home Folder.
+
+Smart Maximize Window
+---------------------
+Maximizes the frontmost window to fill the screen. If frontmost window is
+already maximized, zoom it. 
